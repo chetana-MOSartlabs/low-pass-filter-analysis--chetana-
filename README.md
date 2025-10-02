@@ -37,4 +37,12 @@ To analyze the frequency response of an RC low-pass filter by generating sine wa
  
  https://github.com/chetana-MOSartlabs/low-pass-filter-analysis--chetana-/issues/1#issue-3477816581
 
+ # table
+
+ <img width="719" height="262" alt="Image" src="https://github.com/user-attachments/assets/50c2279d-25a2-470b-8ae5-4561894097c1" />
+
+ # graphs
+
+ 
+
  
