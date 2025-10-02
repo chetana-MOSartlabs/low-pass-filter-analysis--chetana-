@@ -129,3 +129,5 @@ plt.show()
 7.	Saved the samples into a CSV file.
 8.	Plotted the captured/simulated waveform using Matplotlib for visualization.
 
+output:
+<img width="975" height="389" alt="Image" src="https://github.com/user-attachments/assets/2fe6be39-fcbf-4674-81ab-55e02e7bfe82" />
