@@ -3,3 +3,10 @@
 <img width="1568" height="889" alt="Image" src="https://github.com/user-attachments/assets/8c668721-15d9-494f-8839-4cb45a7508f7" />
 <img width="1341" height="912" alt="Image" src="https://github.com/user-attachments/assets/a5cad2e0-a560-47ce-a381-9cc23bfc51cc" />
 The tables record measurements from the frequency response analysis of an RC low-pass filter. For each input sine wave frequency, the input voltage and corresponding output voltage across the filter were measured. Using these values, the gain in decibels (dB) was calculated using the formula:
+//Gain(dB)=20* log10(Vout/Vin)
+The gain values illustrate how the filter attenuates higher frequencies while allowing lower frequencies to pass with minimal loss, characteristic of low-pass filter behavior.
+
+//About the graph
+The plotted graph of Gain (dB) vs Frequency (Hz) uses a logarithmic scale on the frequency axis for better visualization of the frequency response over a wide range. The decreasing gain with increasing frequency confirms the expected attenuation of the RC filter at higher frequencies.
+
+These results demonstrate the frequency-dependent nature of the RC low-pass filter, highlighting its usefulness in applications requiring the suppression of unwanted high-frequency signals while preserving signals of lower frequencies.
