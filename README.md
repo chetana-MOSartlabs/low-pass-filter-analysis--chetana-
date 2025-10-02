@@ -43,6 +43,7 @@ To analyze the frequency response of an RC low-pass filter by generating sine wa
 
  # graphs
 
+<img width="2400" height="1600" alt="Image" src="https://github.com/user-attachments/assets/fbcc03bf-ad05-402b-8172-ae63e0254cee" />
  
 
  
